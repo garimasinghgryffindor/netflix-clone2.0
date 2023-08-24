@@ -1,0 +1,25 @@
+.movie-top {
+    display: none;
+    padding-bottom: 100px;
+    background-color: #444343;
+    width: min-content;
+    border-radius: 10px;
+    position: absolute;
+    top: 800px;
+    left: 400px;
+    z-index: 99;
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+.movie-top img {
+    max-height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+h3 {
+    color: white;
+    margin-left: 10px;
+}
+

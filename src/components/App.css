@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+    flex-direction: column;
+}
+
+.rows {
+    z-index: 1;
+    margin-top: -200px;
+}
